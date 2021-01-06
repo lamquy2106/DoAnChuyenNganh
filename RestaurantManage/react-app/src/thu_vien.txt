@@ -1,0 +1,7 @@
+npm i -s axios
+
+npm i -s redux react-redux redux-thunk
+
+npm i -s @material-ui/core @material-ui/icons
+
+npm i -s react-toast-notifications

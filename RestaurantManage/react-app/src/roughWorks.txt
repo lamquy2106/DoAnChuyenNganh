@@ -1,0 +1,17 @@
+App Structure
+
+redux, react-redux, redux-thunk
+
+actions - create, update, delete etc ,data 
+reducers
+store
+
+cmpnt -> dispatch(action) -> reducer -> cmpnt
+
+npm i -s axios
+
+npm i -s redux react-redux redux-thunk
+
+npm i -s @material-ui/core @material-ui/icons
+
+npm i -s react-toast-notifications
